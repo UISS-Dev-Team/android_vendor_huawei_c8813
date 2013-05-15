@@ -152,3 +152,5 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/c8813/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
     vendor/huawei/c8813/proprietary/bin/rild:system/bin/rild \
     vendor/huawei/c8813/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/huawei/c8813/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
+    vendor/huawei/c8813/proprietary/lib/libaudcal.so:obj/lib/libaudcal.so
